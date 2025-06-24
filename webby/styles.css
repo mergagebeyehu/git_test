@@ -1,0 +1,25 @@
+.title {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+  background-image: url('cool-fortnite-battle-royale-hx8c9p0u2qp40c9o.jpg');
+  background-size:  100%;
+  background-repeat: no-repeat;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    position: relative;
+  width: 10%; /* Set width as a percentage */
+  height: auto;
+  top: 300px;
+    left: 800px;
+}
